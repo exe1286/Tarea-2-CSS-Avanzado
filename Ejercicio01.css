@@ -1,0 +1,26 @@
+.contenedor {
+  border: 1px solid black;
+  height: 300px;
+  width: 300px;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.item {
+  text-align: center;
+  margin-left: 200px;
+  height: 100px;
+  width: 100px;
+  line-height: 50px;
+  color: white;
+}
+.rojo {
+  background-color: red;
+}
+.azul {
+  background-color: blue;
+}
+.verde {
+  background-color: green;
+}
